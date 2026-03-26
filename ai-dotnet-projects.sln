@@ -1,8 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+# Visual Studio Version 18
+VisualStudioVersion = 18.4.11620.152 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppAI", "ChatAppAI\ChatAppAI.csproj", "{8F56AB3E-B1E9-614E-32FA-D43083000E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsAI", "ExtensionsAI\ExtensionsAI.csproj", "{70DCE40E-9D8F-D7B8-A62C-0BEB50435AAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{8F56AB3E-B1E9-614E-32FA-D43083000E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F56AB3E-B1E9-614E-32FA-D43083000E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F56AB3E-B1E9-614E-32FA-D43083000E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DCE40E-9D8F-D7B8-A62C-0BEB50435AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DCE40E-9D8F-D7B8-A62C-0BEB50435AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DCE40E-9D8F-D7B8-A62C-0BEB50435AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DCE40E-9D8F-D7B8-A62C-0BEB50435AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
